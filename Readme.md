@@ -1,58 +1,14 @@
-# 🚀 My Portfolio
+Your `README.md` is ready! Here's what's covered:
 
-Welcome to my personal portfolio! This repository showcases my projects, skills, and experience as a developer.
+- **Badges** for status, tech stack, and theme
+- **Table of contents** with anchor links
+- **Overview** describing the design and approach
+- **Features list** — cursor, typing animation, theme toggle, scroll reveal, etc.
+- **Sections table** — quick summary of every page section
+- **Tech stack** breakdown with fonts and browser APIs used
+- **Getting started** — one command to run it
+- **Customization guide** — table of every placeholder to replace + how to change colors
+- **File structure** showing it's a single self-contained file
+- **MIT License** footer
 
-## 🧑‍💻 About Me
-
-Hi! I'm **Udeh Chibuike Marvelous**, with the ambition of becoming an AI engineer, a frontend developer passionate about building clean, interactive, and user-friendly applications.
-
-## 🔧 Technologies & Tools
-
-* HTML, CSS, JavaScript
-* React / Next.js
-* React Native
-* Git & GitHub
-* UI/UX Principles
-
-## 📂 Featured Projects
-
-### 1. **Project Name One**
-
-A short description of the project and what it does.
-
-* Tech used: React, JavaScript
-* Live link:
-* GitHub repo:
-
-### 2. **Project Name Two**
-
-A brief overview of another project.
-
-* Tech used: Next.js, TailwindCSS
-* Live link:
-* GitHub repo:
-
-### 3. **Project Name Three**
-
-Description of your mobile or web app.
-
-* Tech used: React Native
-* Live link:
-* GitHub repo:
-
-## 📝 Skills
-
-* Frontend development
-* Responsive UI design
-* API integration
-* Version control
-
-## 📫 Contact
-
-* **Email:** [Uchibuike581@gmail.com](mailto:Uchibuike581@gmail.com)
-* **Phone:** 09138660455
-* **Location:** Lagos State, Ikorodu
-
----
-
-Thank you for visiting my portfolio! Feel free to explore my projects and reach out if you want to collaborate.
+Just drop it alongside `portfolio.html` in the same folder before pushing to GitHub.
